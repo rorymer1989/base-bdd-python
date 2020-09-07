@@ -1,8 +1,6 @@
 # pytest-bdd
 This repository contains example code for the
-*Behavior-Driven Python with pytest-bdd* course
-from [Test Automation University](https://testautomationu.applitools.com/).
-There is a branch for each chapter of the course showing the state of the code at the completion of the chapter.
+*Behavior-Driven Python with pytest-bdd* 
 
 ## Setup
 This project requires an up-to-date version of Python 3.
