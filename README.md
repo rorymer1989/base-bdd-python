@@ -1,4 +1,4 @@
-# pytest-bdd
+# Pytest bdd
 This repository contains example code for the
 *Behavior-Driven Python with pytest-bdd* 
 
